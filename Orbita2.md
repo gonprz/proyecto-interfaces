@@ -4,8 +4,9 @@
 
 | Qué | Enlace |
 |---|---|
-| Archivo de Figma (versión "Entrega Órbita 2") |https://www.figma.com/design/sV91qGglKWmJEgOTmBeQnE/Mockups?t=9TqAnVJec13rMBVS-1|
-| Prototipo (enlace que empieza por `figma.com/proto/`) |https://www.figma.com/proto/sV91qGglKWmJEgOTmBeQnE/Mockups?node-id=13-402&p=f&t=uvFjvjViDCiCOgda-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A43 |
+| Archivo de Figma (versión "Entrega Órbita 2") |https://www.figma.com/design/sV91qGglKWmJEgOTmBeQnE/Mockups?node-id=18-1623&t=9TqAnVJec13rMBVS-1|
+| Prototipo (enlace que empieza por `figma.com/proto/`) |https://www.figma.com/proto/sV91qGglKWmJEgOTmBeQnE/Mockups?t=GqdhUwTFOXkCpQiE-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=3-43&starting-point-node-id=3%3A43|
+| Prototipo Sobremesa | https://www.figma.com/proto/sV91qGglKWmJEgOTmBeQnE/Mockups?node-id=18-1625&t=89cdveM0H860WM1Y-1&scaling=scale-down&content-scaling=fixed&page-id=18%3A1623 |
 | Proyecto de Google Stitch (solo si lo has usado) | |
 
 ## Dónde está cada cosa en Figma
