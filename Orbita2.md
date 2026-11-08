@@ -12,13 +12,13 @@
 
 | Entregable | Página y sección del archivo |
 |---|---|
-| Inventario de decisiones |Página 1(Mockup Dispositivo Móvil) Al lado de la Pantalla Principal|
-| Wireframes rediseñados con sus notas |Página 1(Mockup Dispositivo Móvil) Al lado de la Pantalla Principal|
-| Componentes |Página 1(Mockup Dispositivo Móvil) Al lado de las pantallas en "Decisiones Visuales"|
-| Mockups del happy path |Página 1(Mockup Dispositivo Móvil|
+| Inventario de decisiones |Página 4(Guía de Estilo)|
+| Wireframes rediseñados con sus notas |Página 4(Guía de Estilo)|
+| Componentes |Página 4(Guía de Estilo) Al lado de las pantallas en "Decisiones Visuales"|
+| Mockups del happy path |Página 1(Mockup Dispositivo Móvil)|
 | Pantalla principal en el segundo ancho |Página 2 (Mockup Tablet)|
 | Pantallas en modo oscuro |Página 1(Mockup Dispositvo Móvil) y Página 3 (Mockup Sobremesa)|
-| Guía de estilo |Página 1(Mockup Dispositivo Móvil) Debajo de las Decisiones Visuales|
+| Guía de estilo |Página 4(Guía de Estilo)|
 
 ## Lista de comprobación de Figma
 
